@@ -1,0 +1,51 @@
+input() #entrada
+print() #saida
+* #multiplicação
+** #exponenciação/potenciação
+/ #divisão
+% #resto
+== #igual
+!= #diferente
+> #menor
+>= #menor ou igual
+< #maior
+<= #maior ou igual
+'e' in 'teste' #true
+'e' not in 'teste' #falso
+= #atribuição
++= #incremento
+-= #decremento
+len('teste') #5
+sum([1,2,3]) #6
+max([1,2,3]) #3
+min() #1
+any()
+all()
+'teste'[2]
+'teste'[0:2]
+'teste'[::2]
+'teste'[2:]
+'teste'[:2]
+if condição1:
+    ...
+elif condição2:
+    ...
+else:
+    ...
+while condição:
+    ...
+for i in range (10)
+range(-5,5)
+range(-10,10,2)
+'teste'.__contains__('e')
+'teste'.replace('e','a')
+'teste'.startswith('te')
+'teste'.endswith('te')
+'teste'.strip()
+'teste'.split()
+'teste'.lower()
+'teste'.upper()
+'teste'.casefold()
+'teste'.title()
+'teste'.isnumeric()
+'teste'.isalpha()
