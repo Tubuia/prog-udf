@@ -14,3 +14,5 @@ animes = {
     "Akame ga Kill!": 24,
     "Elfen Lied": 13
 }
+
+print(f'O total de episodios é {sum(animes.values())}')
